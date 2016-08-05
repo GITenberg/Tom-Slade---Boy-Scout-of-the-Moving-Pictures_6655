@@ -1,0 +1,44 @@
+_repo: Tom-Slade---Boy-Scout-of-the-Moving-Pictures_6655
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fitzhugh, Percy Keese
+    aliases:
+    - Fitzhugh, Percy K.
+    - Fitzhugh, P. K. (Percy Keese)
+    birthdate: 1876
+    deathdate: 1950
+    gutenberg_agent_id: '2132'
+    url: http://www.gutenberg.org/2009/agents/2132
+    wikipedia: http://en.wikipedia.org/wiki/Percy_Keese_Fitzhugh
+description: Tom is a sixteen-year-old street tough, left to fend for himself by his
+  worthless father, Bill Slade, after wealthy landowner John Temple evicts them. Tom
+  scorns the Boy Scout movement, as does Temple and his effeminate son Wilfred. Because
+  of his interest in Temple's daughter Mary, Tom gets a job and joins the Scouts after
+  seeing that they are as strong and tough as he. On a camping trip, Tom sees his
+  father and a gang of tramps attempt to rob Temple's home. The Scouts frightened
+  them, and when they attempt another robbery, Slade is slightly wounded and Temple's
+  servant is shot. Although the Scouts use a wireless to summon medical help, Temple
+  remains steadfast in his oposition to them. After he and Wilfred get lost on a fishing
+  trip, Mrs. Temple asks the Scouts to search for them. Temple meets Slade, and they
+  fight until they both fall unconscious. After the Scouts rescue them, Temple relents
+  in his opposition, Wilfred joins, and Slate decides to get a job.
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6655'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Character -- Juvenile fiction'
+- !lcsh 'Determination (Personality trait) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boy Scouts of America -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Outdoor recreation -- United States -- Juvenile fiction'
+- GITenberg
+title: 'Tom Slade : Boy Scout of the Moving Pictures'
+url: http://www.gutenberg.org/ebooks/6655
