@@ -1,5 +1,8 @@
 _repo: Tom-Slade---Boy-Scout-of-the-Moving-Pictures_6655
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fitzhugh, Percy Keese
@@ -23,6 +26,8 @@ description: Tom is a sixteen-year-old street tough, left to fend for himself by
   trip, Mrs. Temple asks the Scouts to search for them. Temple meets Slade, and they
   fight until they both fall unconscious. After the Scouts rescue them, Temple relents
   in his opposition, Wilfred joins, and Slate decides to get a job.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6655#Tom-Slade---Boy-Scout-of-the-Moving-Pictures
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
